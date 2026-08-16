@@ -1,0 +1,17 @@
+        INP
+        STA NUM1
+        INP
+        STA NUM2
+LOOP    LDA NUM1
+        OUT
+        LDA NUM1
+        SUB NUM2
+        BRZ ENCERRAR
+        LDA NUM1
+        ADD UM
+        STA NUM1
+        BRA LOOP
+ENCERRAR   HLT
+NUM1     DAT 0
+NUM2     DAT 0
+UM      DAT 1
