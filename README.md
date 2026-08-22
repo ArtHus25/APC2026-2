@@ -15,6 +15,8 @@ Utilizamos o OctoStudio para desenvolver um programa de apresentação pessoal, 
 
 **Aula 02 — 12/08/2026**
 
+Aula de Laboratório
+
 A segunda aula aconteceu no laboratório, onde fomos apresentados ao [Little Man Computer](https://www.101computing.net/lmc/) (LMC), um modelo que simula o funcionamento básico de um processador.
 
 O LMC representa alguns dos principais componentes internos de um computador, como processador, memória e barramentos. Nele, podemos inserir instruções que são interpretadas pelo processador e observar os resultados produzidos pelo programa.
