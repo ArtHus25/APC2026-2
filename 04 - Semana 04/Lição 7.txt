@@ -1,6 +1,28 @@
 Lição 7: TEXT
+Avaliação:
 
-//Código em java script
+//Código em JavaScript
+
+var grass = createSprite(200,200);
+grass.setAnimation("floating_grass");
+var alien = createSprite(180,100);
+alien.setAnimation("alien");
+alien.scale = 1.3;
+var robot = createSprite(300,300);
+robot.setAnimation("robot");
+robot.scale = 0.2;
+drawSprites();
+textSize(15);
+text("O que ele está",130,30);
+text("pensando?",150,45);
+stroke("blue");
+textSize(20);
+text("BORBOLETAS!!!",265,200);
+
+Desafio:
+
+//Código em JavaScript
+
 World.frameRate = 10;
 function draw() {
   // Background e lava

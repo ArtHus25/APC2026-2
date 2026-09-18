@@ -1,5 +1,27 @@
 # LIÇÃO 7: TEXT
 
+**Avaliação:** Nessa avaliação temos que posicionar na cenário já pronto dois textos de interação entre os personagens. A maior dificuldade e como deixar bem encaixado no cenário os textos sem que ficam para fora da tela.
+
+```JavaScript
+var grass = createSprite(200,200);
+grass.setAnimation("floating_grass");
+var alien = createSprite(180,100);
+alien.setAnimation("alien");
+alien.scale = 1.3;
+var robot = createSprite(300,300);
+robot.setAnimation("robot");
+robot.scale = 0.2;
+drawSprites();
+textSize(15);
+text("O que ele está",130,30);
+text("pensando?",150,45);
+stroke("blue");
+textSize(20);
+text("BORBOLETAS!!!",265,200);
+```
+
+**Desafio:** Nesse Desafio foi preciso criar um cena com um texto para criar um interação entre dois personagens, minha maior dificuldade foi como encaixar a mensagem sem que atrapalhasse os personagens. Foi um desafio até simples mas bem divertido. No marcador //Texto no código mostra as especificações do texto, como tamanho cor e localização do texto na imagem.
+
 ```JavaScript
 World.frameRate = 10;
 function draw() {
@@ -46,4 +68,3 @@ function draw() {
 }
 ```
 
-Nesse Desafio foi preciso criar um cena com um texto para criar um interação entre dois personagens, minha maior dificuldade foi como encaixar a mensagem sem que atrapalhasse os personagens. Foi um desafio até simples mas bem divertido. No marcador //Texto no código mostra as especificações do texto como tamanho, cor e localização do texto na imagem.
