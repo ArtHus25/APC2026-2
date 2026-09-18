@@ -1,6 +1,6 @@
 # LIÇÃO 7: TEXT
 
-**Avaliação:** Nessa avaliação temos que posicionar na cenário já pronto dois textos de interação entre os personagens. A maior dificuldade e como deixar bem encaixado no cenário os textos sem que ficam para fora da tela.
+**Avaliação:** Nessa avaliação temos que posicionar na cenário já pronto dois textos de interação entre os personagens. A maior dificuldade e como deixar bem encaixado no cenário os textos sem que fiquem para fora da tela.
 
 ```JavaScript
 var grass = createSprite(200,200);
