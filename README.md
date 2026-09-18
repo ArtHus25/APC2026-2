@@ -95,3 +95,86 @@ Durante a aula, também comecei a resolver os exercícios propostos na lista. Co
 Primeiro, defini a lógica de entrada e saída, pensando em quais valores o programa receberia e qual resultado deveria apresentar. Em seguida, construí o fluxograma, organizando as condições, repetições e possíveis caminhos que o programa poderia seguir.
 
 Depois de verificar a lógica no fluxograma, passei para a implementação do código no LMC. Esse processo ajudou a entender melhor como transformar uma ideia em um algoritmo e como utilizar os desvios condicionais e os laços de repetição para resolver diferentes problemas.
+
+---
+
+**AULA 07 - 31/08/2026**
+
+Introdução ao JavaScript
+
+Nesta etapa da disciplina, começamos a estudar uma nova linguagem de programação: o JavaScript. É uma linguagem bastante utilizada na criação de páginas e aplicações web e pode ser uma boa opção para quem está começando a aprender programação.
+
+O JavaScript permite criar páginas mais interativas e dinâmicas. Com ele, podemos fazer animações, validar formulários, criar menus suspensos e alterar conteúdos da página sem precisar recarregá-la. Assim, conseguimos perceber que a programação pode ser usada para criar diferentes tipos de aplicações e interações.
+
+Para praticar os conceitos, utilizamos o Code.org.A plataforma possui atividades voltadas para o aprendizado de programação e permite desenvolver projetos de forma prática e gradual.Através dos exercícios, começamos a trabalhar com conceitos como variáveis, funções, eventos e estruturas lógicas, colocando em prática o que aprendemos sobre programação.
+
+O estudo do JavaScript também foi um passo diferente em relação às atividades anteriores, pois começamos a escrever o código diretamente, em vez de utilizar apenas blocos. Isso ajudou a entender melhor como a estrutura de um programa funciona e a importância de escrever os comandos corretamente.
+
+---
+
+**AULA 08 - 02/09/2026**
+
+Aula de laboratório/
+Exercícios do GameLab
+
+1. Drawing in Game Lab
+
+Nesta primeira lição, aprendi o funcionamento do Code.org e conheci algumas das ferramentas disponíveis no Game Lab. A plataforma possui uma área de visualização na parte superior esquerda, onde o resultado do código é mostrado na tela.
+
+A tela funciona utilizando um sistema de coordenadas X e Y, semelhante a um plano cartesiano, que determina a posição dos objetos dentro do espaço. Dessa forma, podemos definir onde cada imagem ou elemento será colocado na tela.
+
+Também aprendi que a ordem em que o código é escrito é importante, pois ela influencia a forma como os objetos são desenhados. Quando um objeto é desenhado depois de outro, ele pode ficar por cima do objeto anterior.
+
+O desafio proposto nesta [lição](https://studio.code.org/projects/gamelab/31328f9d-f3d8-4bcd-9018-95d4fbd55c6b) foi corrigir o desenho de uma flor, alterando a ordem em que as partes do código eram executadas para que a imagem fosse exibida corretamente. Essa atividade ajudou a entender, na prática, como a ordem dos comandos interfere no resultado final do programa.
+
+2. Shapes and Parameters
+
+Nesta segunda lição, começamos a colocar mais em prática a criação de formas geométricas no Game Lab e aprendemos como modificar seus tamanhos e formatos. A partir dos conhecimentos da primeira lição, principalmente sobre a ordem em que os códigos são escritos e o uso das coordenadas X e Y, conseguimos definir melhor a posição e as características das formas na tela.
+
+Aprendemos a utilizar formas básicas, como retângulos e círculos, e a manipular seus tamanhos para criar diferentes figuras. Também tivemos contato com outros elementos, como linhas, arcos e polígonos, aumentando as possibilidades de criação dos desenhos.
+
+Os parâmetros utilizados nos comandos são importantes porque permitem controlar características das formas, como sua posição, largura, altura e outros aspectos. Com a combinação desses valores, uma forma geométrica simples pode ser modificada para representar objetos e desenhos mais elaborados.
+
+Nos [exercícios](https://studio.code.org/projects/gamelab/e45afd37-f3de-4679-95ef-4c2eebea6f02) e [desafios](https://studio.code.org/projects/gamelab/fca57ff3-19e0-43ca-adfd-ac23fe89fc59) dessa lição, tivemos que manipular o tamanho, a posição e o formato das formas geométricas para chegar ao resultado pedido. Assim, além de aprender novos comandos, também começamos a entender melhor como pequenos ajustes nos valores do código podem mudar completamente o que aparece na tela.
+
+3. Variables
+
+Nesta terceira lição, evoluímos para o estudo das variáveis e de como elas funcionam. Uma variável pode guardar um determinado valor, que pode ser acessado posteriormente através do nome que foi dado a ela. Isso facilita bastante a escrita e a organização do código, principalmente quando precisamos usar o mesmo valor várias vezes.
+
+As variáveis podem armazenar diferentes tipos de valores, como números, posições, tamanhos e cores. Por exemplo, podemos criar uma variável para guardar o tamanho de uma forma e depois utilizar essa mesma variável em diferentes partes do código. Dessa forma, se quisermos alterar o tamanho do desenho, basta mudar o valor da variável em vez de procurar e alterar cada comando separadamente.
+
+No desafio dessa [lição](https://studio.code.org/projects/gamelab/39decc09-4f7a-49aa-9927-3d1756dbbbea), utilizamos uma variável para armazenar o tamanho dos olhos de um desenho. Em vez de escrever o mesmo valor várias vezes no código, o tamanho é definido uma única vez na variável e depois utilizado nos comandos responsáveis por desenhar os olhos.
+
+Essa atividade mostrou na prática como as variáveis podem facilitar a criação e a alteração dos desenhos, deixando o código mais organizado e evitando a repetição desnecessária de valores.
+
+4.Random Numbers
+
+Nesta quarta lição, aprendemos a usar números aleatórios para deixar os programas mais variados e divertidos. Podemos determinar dois valores, um mínimo e um máximo, e o programa escolhe aleatoriamente um número dentro dessa faixa cada vez que é executado.
+
+Isso pode ser usado de várias formas, como para aumentar ou diminuir o tamanho de uma forma, mudar sua posição ou até escolher cores diferentes de maneira aleatória. Dessa forma, um mesmo código pode apresentar resultados diferentes cada vez que for executado.
+
+Nesse [desafio](https://studio.code.org/projects/gamelab/2299a8b1-e6ed-45b5-8492-b2a461ef712c), criamos uma espécie de arco-íris, em que as diferentes partes podem assumir tamanhos e cores diferentes de forma aleatória. Foi uma maneira de entender na prática como os números aleatórios podem deixar um desenho mais dinâmico.
+
+5. Sprites
+
+Nesta quinta lição, começamos a trabalhar com os sprites, que são objetos que podem representar imagens ou elementos dentro do nosso programa. Eles podem ser armazenados em variáveis e depois utilizados no código para aparecer na tela.
+
+Para criar um sprite, primeiro podemos armazená-lo em uma variável e depois definir suas características. O sprite só será mostrado na tela quando utilizarmos o comando drawSprites(). Isso também faz com que a ordem dos comandos continue sendo importante para determinar como os elementos serão apresentados.
+
+Nessas atividades, também começamos a perceber a importância de escrever os comandos e nomes corretamente. Uma pequena diferença na sintaxe pode fazer com que o programa não reconheça o sprite ou apresente algum erro.
+
+6. Sprite Properties
+
+Nesta sexta lição, continuamos trabalhando com sprites, mas agora começamos a explorar melhor suas propriedades e as diferentes formas de modificá-los. A partir de um sprite criado, podemos definir sua posição utilizando as coordenadas X e Y, assim como fizemos com as formas geométricas nas lições anteriores.
+
+Também aprendemos a alterar a escala dos sprites, aumentando ou diminuindo seu tamanho. A plataforma possui várias imagens prontas que podem ser utilizadas nos projetos, e podemos manipulá-las de diferentes maneiras para que se encaixem no desenho ou na ideia que queremos criar.
+
+Essas propriedades permitem ter mais controle sobre os elementos da tela. Podemos, por exemplo, mudar a posição de um personagem, aumentar ou diminuir seu tamanho e organizar vários sprites diferentes dentro do mesmo projeto.
+
+7. Text
+
+Nesta sétima lição, começamos a trabalhar com textos dentro do Game Lab. Aprendemos como criar um texto e modificar algumas de suas características, como o tamanho, a cor e a posição na tela.
+
+A posição é uma parte importante, principalmente para organizar o texto corretamente e fazer com que ele fique dentro dos limites da tela. Dependendo do tamanho do texto e das coordenadas utilizadas, ele pode ficar fora da área de visualização ou sobrepor outros elementos do desenho.
+
+Também podemos combinar textos com as outras ferramentas que já aprendemos, como formas, sprites e variáveis. Isso permite criar projetos mais completos, adicionando informações, títulos e mensagens aos desenhos e jogos.
