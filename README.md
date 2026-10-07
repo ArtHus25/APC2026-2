@@ -178,3 +178,161 @@ Nesta sétima lição, começamos a trabalhar com textos dentro do Game Lab. Apr
 A posição é uma parte importante, principalmente para organizar o texto corretamente e fazer com que ele fique dentro dos limites da tela. Dependendo do tamanho do texto e das coordenadas utilizadas, ele pode ficar fora da área de visualização ou sobrepor outros elementos do desenho.
 
 Também podemos combinar textos com as outras ferramentas que já aprendemos, como formas, sprites e variáveis. Isso permite criar projetos mais completos, adicionando informações, títulos e mensagens aos desenhos e jogos.
+
+**AULA 09 - 07/09/2026**
+
+Continuamos com JavaScript caminhando para concluir as 18 atividades do curso do GameLab dentro da plataforma.
+
+**AULA 10 - 09/09/2026**
+
+Aula de laboratório
+
+8. The Draw Loop
+
+Nesta oitava lição, aprendemos sobre o Draw Loop, que é responsável por executar repetidamente os comandos dentro da função draw(). Isso permite que os elementos do programa sejam atualizados várias vezes por segundo, criando a ideia de movimento e interação.
+
+Com isso, podemos fazer com que objetos mudem de posição, tamanho ou outras propriedades enquanto o programa está sendo executado. Também entendemos melhor a diferença entre os comandos que são executados uma única vez e aqueles que precisam ser repetidos durante o funcionamento do programa.
+
+Essa parte é importante para a criação de jogos, pois o Draw Loop permite que o cenário e os objetos sejam atualizados constantemente, fazendo com que as ações do jogador tenham efeito na tela.
+
+
+
+9. Sprite Movement
+
+Nesta nona lição, aprendemos a movimentar sprites dentro do Game Lab. Utilizando as propriedades de velocidade e posição, podemos fazer com que os sprites se movimentem pela tela de diferentes maneiras.
+
+Também aprendemos que é possível controlar a direção e a velocidade de um sprite através do código. Isso permite criar personagens, objetos e outros elementos que se movimentam automaticamente ou de acordo com as ações do jogador.
+
+Os conhecimentos das lições anteriores sobre sprites e suas propriedades foram importantes para entender essa parte, já que agora começamos a dar movimento aos objetos que antes ficavam parados na tela.
+
+
+10. Conditionals
+
+Nesta décima lição, começamos a trabalhar com condicionais, que permitem que o programa tome decisões dependendo do que está acontecendo. Utilizando comandos como if e else, podemos determinar o que deve acontecer quando uma determinada condição for verdadeira ou falsa.
+
+As condicionais são muito importantes para criar interações nos jogos. Podemos, por exemplo, verificar se um personagem chegou a determinado lugar, se dois objetos se tocaram ou se uma determinada tecla foi pressionada.
+
+Com isso, o programa deixa de apenas executar os comandos em uma ordem definida e passa a conseguir responder a diferentes situações que acontecem durante a execução.
+
+
+11. Keyboard Input
+
+Nesta décima primeira lição, aprendemos a utilizar o teclado para controlar os elementos do jogo. Através dos comandos de entrada do teclado, podemos verificar quando uma determinada tecla é pressionada e fazer alguma ação acontecer.
+
+Isso permite criar controles para personagens e outros objetos. Por exemplo, podemos usar as teclas direcionais para fazer um sprite se movimentar para cima, baixo, esquerda ou direita.
+
+Essa atividade juntou alguns dos conhecimentos que já tínhamos aprendido, principalmente sprites, movimento e condicionais, mostrando como eles podem ser usados juntos para criar uma interação com o jogador.
+
+
+12. Mouse Input
+
+Nesta décima segunda lição, aprendemos a utilizar o mouse como forma de entrada para interagir com o programa. Assim como fizemos com o teclado, podemos verificar os movimentos e ações do mouse para fazer diferentes coisas acontecerem na tela.
+
+Podemos utilizar a posição do mouse através das coordenadas X e Y, fazendo com que um objeto acompanhe o cursor ou que uma ação aconteça quando ele estiver em determinada parte da tela. Também é possível utilizar o clique do mouse para criar interações.
+
+Essa lição mostrou outra forma de controlar os elementos de um jogo e também reforçou o uso das coordenadas, condicionais e sprites que aprendemos nas lições anteriores.
+[TESTE](https://studio.code.org/projects/gamelab/e5493877-d80e-45dc-bbe0-1adf0aa068da) 
+
+---
+
+**AULA 11 - 14/09/2026**
+
+Continuamos com JavaScript caminhando para concluir as 18 atividades do curso do GameLab dentro da plataforma.
+
+---
+
+**AULA 12 - 16/09/2026**
+
+Aula de laboratório
+
+13. Velocity
+
+Nesta décima terceira lição, aprendemos sobre velocidade dos sprites e como podemos controlar a velocidade e a direção em que eles se movimentam. Utilizando propriedades como velocityX e velocityY, conseguimos fazer um sprite se mover automaticamente pela tela.
+
+A velocidade pode ser positiva ou negativa, dependendo da direção em que queremos que o sprite se mova. Também podemos alterar esses valores durante a execução do programa, fazendo com que o movimento dos objetos seja diferente em cada situação.
+
+Essa parte foi importante para entender melhor como funciona o movimento dos sprites e como podemos controlar esse movimento através do código.
+
+
+14. Collision Detection
+
+Nesta décima quarta lição, aprendemos sobre detecção de colisões, que permite identificar quando dois sprites entram em contato. Isso é muito importante para criar interações entre os objetos de um jogo.
+
+Podemos verificar, por exemplo, quando um personagem encosta em outro objeto e fazer alguma ação acontecer a partir disso. Nesse desafio, colocamos esse conceito em prática utilizando sprites e suas colisões.
+
+Com essa atividade, começamos a entender melhor como fazer os objetos do jogo reagirem quando se encontram, em vez de simplesmente passarem um pelo outro.
+https://studio.code.org/projects/gamelab/14d03f02-462a-4fb9-8a67-bd59bef40bfa
+
+
+15. Complex Sprite Movement
+
+Nesta décima quinta lição, continuamos trabalhando com o movimento dos sprites, mas agora de uma forma mais complexa. Utilizamos os conhecimentos de velocidade, posição e condicionais para criar movimentos que possuem mais de uma etapa ou que mudam de acordo com o que acontece no jogo.
+
+Isso permite criar objetos que não ficam apenas andando em uma única direção. Podemos fazer com que eles mudem de direção, parem ou tenham seu movimento alterado dependendo de determinadas condições.
+
+Essa atividade ajudou a juntar vários dos conceitos aprendidos nas lições anteriores para criar movimentos mais elaborados.
+
+
+16. Collisions
+
+Nesta décima sexta lição, continuamos trabalhando com colisões, mas agora explorando outras formas de interação entre os sprites. Aprendemos que uma colisão pode fazer com que os objetos reajam de diferentes maneiras, dependendo do que foi programado.
+
+Podemos fazer com que um sprite pare ao encontrar um obstáculo, seja empurrado ou tenha seu movimento alterado. Dessa forma, as colisões podem ser utilizadas para criar obstáculos, limites e diferentes tipos de interação dentro de um jogo.
+
+Essa lição ajudou a entender melhor como combinar movimento e colisões para deixar os jogos mais interativos.
+
+
+17. Functions
+
+Nesta décima sétima lição, aprendemos sobre funções e como elas podem ajudar a organizar melhor o código. Uma função permite guardar vários comandos dentro de um único bloco, que pode ser chamado sempre que precisarmos executar aquela determinada ação.
+
+Isso evita que seja necessário escrever os mesmos comandos várias vezes e deixa o código mais organizado e fácil de entender. Também podemos criar funções para diferentes partes do nosso projeto, separando melhor cada ação.
+
+Esse conceito foi importante porque, conforme os projetos ficam maiores, organizar o código passa a ser cada vez mais necessário. As funções ajudam justamente a dividir o programa em partes menores e mais fáceis de controlar.
+
+
+18. Project - Design a Game
+
+No Projeto Final, tivemos que desenvolver um jogo utilizando os conhecimentos aprendidos nas atividades anteriores. O meu jogo consiste em controlar um personagem que precisa atravessar ruas movimentadas, tentando se esquivar dos carros. Quando é atingido, perde um ponto e volta para o início da fase. Ao conseguir chegar ao outro lado, ganha um ponto.
+
+Usei principalmente Functions para organizar o programa, Collisions para as interações com os obstáculos e Collision Detection para reiniciar a fase quando o personagem encosta nos carros e caminhões. Para os controles, utilizei Keyboard Input para movimentar o personagem e também mudar a sprite, fazendo com que a animação acompanhe a direção do movimento.
+
+Também utilizei assets de uma biblioteca pública para deixar o jogo mais bonito, enquanto o fundo foi criado usando as próprias ferramentas de Drawing do Game Lab.
+
+
+---
+
+**AULA 12 - 21/09/2026**
+
+Semana Universitária
+
+---
+
+**AULA 12 - 23/09/2026**
+
+Semana Universitária
+
+
+---
+
+**AULA 12 - 28/09/2026**
+
+Nesta aula, começamos a estudar a linguagem C utilizando inicialmente a plataforma Python Tutor, que permite acompanhar a execução do código e entender melhor o que acontece durante o funcionamento do programa.
+
+O C é utilizado em diversas áreas, principalmente no desenvolvimento de sistemas operacionais, programas, softwares embarcados e outros sistemas que precisam de bom desempenho. Além disso, várias linguagens de programação modernas foram influenciadas pela linguagem C.
+
+Nesta primeira etapa, começamos a conhecer a estrutura básica da linguagem e a forma de escrever programas utilizando código, dando continuidade aos conceitos de programação que já havíamos aprendido anteriormente.
+
+
+---
+**AULA 12 - 30/09/2026**
+
+Nesta aula, continuamos estudando a linguagem C, mas agora aprendemos sobre os sistemas de numeração binário, decimal e hexadecimal e sua relação com a memória do computador.
+
+O computador trabalha internamente com bits, que podem assumir apenas dois valores: 0 ou 1. Por isso, os dados são representados em binário. Quando um programa é executado, as informações utilizadas por ele são armazenadas na memória como sequências de bits.
+
+O sistema decimal é o que utilizamos normalmente no dia a dia, utilizando os números de 0 a 9. Já o binário utiliza apenas 0 e 1. O hexadecimal utiliza os números de 0 a 9 e as letras de A a F, sendo uma forma mais compacta de representar valores binários.
+
+Esses sistemas estão relacionados porque o mesmo valor pode ser representado de diferentes formas. Por exemplo, o número decimal 10 pode ser representado como 1010 em binário e como A em hexadecimal.
+
+---
