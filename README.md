@@ -261,7 +261,7 @@ Nesta décima quarta lição, aprendemos sobre detecção de colisões, que perm
 Podemos verificar, por exemplo, quando um personagem encosta em outro objeto e fazer alguma ação acontecer a partir disso. Nesse desafio, colocamos esse conceito em prática utilizando sprites e suas colisões.
 
 Com essa atividade, começamos a entender melhor como fazer os objetos do jogo reagirem quando se encontram, em vez de simplesmente passarem um pelo outro.
-https://studio.code.org/projects/gamelab/14d03f02-462a-4fb9-8a67-bd59bef40bfa
+[TESTE](https://studio.code.org/projects/gamelab/14d03f02-462a-4fb9-8a67-bd59bef40bfa)
 
 
 15. Complex Sprite Movement
